@@ -1,3 +1,8 @@
+/**
+ * @author Yusuf Tahir Aydin
+ * @author Batu Ozogul
+ */
+
 public class Perceptron {
     // The weights for the input features and bias term
     private double[] weights;
